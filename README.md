@@ -1,5 +1,5 @@
 # Lamba-Exercises
-A simple demo for using lambas in C#
+A simple demo solution for using lambas in C#
 
 Exercises
 
